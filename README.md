@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Synensis-lab
+- 👋 Hi, I’m Emma Gill @Synensis-lab
 - 👀 I’m interested in learning, gardening, cooking and making art
-- 🌱 My coding journey has just re-started, I used to like dabbling with BBC basic back in the day!
-More recently I've been learning html, CSS, JS, SQL and PYTHON.
+
 
 - 📫 You can reach me by email
 
